@@ -1,7 +1,5 @@
 #include stdlib.h
 
-
-
 struct node {
     elem_t data;
     struct node *next;
