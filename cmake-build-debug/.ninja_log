@@ -1,0 +1,9 @@
+# ninja log v5
+40	402	7569159804694972	CMakeFiles/mamat.dir/stack.c.obj	bf739e3f5bd78f03
+4	257	7569164045846758	CMakeFiles/mamat.dir/main.c.obj	6876aaebf54ddc11
+1	242	7569165862743606	build.ninja	c137e9500a05d6f5
+82	434	7569159805740099	CMakeFiles/mamat.dir/student.c.obj	150d6b8f197ac925
+1	225	7569165862743606	build.ninja	c137e9500a05d6f5
+3	263	7569165865690626	CMakeFiles/mamat.dir/student.c.obj	150d6b8f197ac925
+2	252	7569166453908330	CMakeFiles/mamat.dir/stack.c.obj	bf739e3f5bd78f03
+253	451	7569166455830662	mamat.exe	384cf2210f54d11f

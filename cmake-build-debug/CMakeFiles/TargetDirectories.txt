@@ -1,0 +1,3 @@
+C:/Users/soust/OneDrive - Technion/mamatTal/mamat/cmake-build-debug/CMakeFiles/mamat.dir
+C:/Users/soust/OneDrive - Technion/mamatTal/mamat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/soust/OneDrive - Technion/mamatTal/mamat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
